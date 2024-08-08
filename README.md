@@ -29,5 +29,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=tyifan-hub&show_icons=true&locale=en" alt="tyifan-hub" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/TYiFan-hub/TYiFan-hub/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
+    </td>
+  </tr>
 </table>
-
