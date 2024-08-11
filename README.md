@@ -23,15 +23,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyifan-hub&" alt="tyifan-hub" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ty1fan&" alt="ty1fan" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tyifan-hub&show_icons=true&locale=en" alt="tyifan-hub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ty1fan&show_icons=true&locale=en" alt="ty1fan" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/TYiFan-hub/TYiFan-hub/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
+      <img src="https://github.com/TY1Fan/TY1Fan/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
     </td>
   </tr>
 </table>
