@@ -23,9 +23,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ty1fan&" alt="ty1fan" />
-    </td>
-    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ty1fan&show_icons=true&locale=en" alt="ty1fan" />
     </td>
   </tr>
