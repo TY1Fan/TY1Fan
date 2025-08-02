@@ -1,10 +1,10 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi, I'm Yi Fan 👋</h1>
-<h3 align="center">A budding software engineer from Singapore</h3>
+<h3 align="center">A budding software engineer / machine learning engineer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyifan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="tyifan-hub" /> </p>
 
-- 🌱 I’m currently a **Sophomore Computer Science Major** from the **National University of Singapore**
+- 🌱 I’m currently a **Penultimate Computer Science Major** from the **National University of Singapore**
 
 - 📫 How to reach me **tyifan123@gmail.com**
 
